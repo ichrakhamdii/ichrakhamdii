@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and data enthus
 ## 🛠️ Skills 
 - **Core Skills:** Machine Learning, Data Preparation, Data Visualization (EDA), Data Modeling, Regression, Classification, Clustering, Predictive Analysis
 - **Deep Learning:** CNN, RNN, LSTM, GANs
-- **NLP:** Data Extraction, Text Classification, Sentiment Analysis
+- **NLP:** SpaCy, Data Extraction, Text Classification, Sentiment Analysis
 - **Computer Vision:** Image Recognition, Object Detection
 # 💻 Tech Stack:
 
