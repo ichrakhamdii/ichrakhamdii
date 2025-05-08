@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software engineer and data enthusiast who loves solving complex problems using machine learning and AI. Here's a bit about me:
 
 ## 🚀 About Me
-- 🎓 I recently graduated as a computer science engineer specialized in data science at Private Higher School of Engineering and Technology **ESPRIT** , Tunisia.
+- 🎓 I'm a computer science engineer specialized in data science, graduated from Private Higher School of Engineering and Technology **ESPRIT** , Tunisia.
 - 🌱 I’m currently learning German, job search strategies, and refining my skills in LLM models.
 - 👯 I’m looking to collaborate on machine learning, data science, and AI-based projects.
 - 🤔 I’m seeking help with finding job opportunities as a junior data scientist.
