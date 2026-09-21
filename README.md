@@ -37,8 +37,6 @@ Below are some of the certifications I’ve earned, highlighting my expertise in
 - **[Building Transformer-Based Natural Language Processing Applications](https://learn.nvidia.com/certificates?id=qAJMjDj4QJaUJbzMT9fBAQ) – Nvidia, DLI**  
   *Developed expertise in creating NLP applications using transformer models like BERT and GPT.*  
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichrakhamdii&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio](https://ichrak-hamdi-portfolio.vercel.app)
