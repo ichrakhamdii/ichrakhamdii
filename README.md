@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software engineer and data enthusiast who loves solving complex problems using machine learning and AI. Here's a bit about me:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ichrak-hamdi-portfolio.vercel.app)
+
 ## 🚀 About Me
 - 🎓 I'm a computer science engineer specialized in data science, graduated from Private Higher School of Engineering and Technology **ESPRIT** , Tunisia.
 - 🌱 I’m currently learning German, job search strategies, and refining my skills in LLM models.
@@ -38,4 +40,5 @@ Below are some of the certifications I’ve earned, highlighting my expertise in
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichrakhamdii&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
+- 🌐 [Portfolio](https://ichrak-hamdi-portfolio.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/ichrakhamdii)
